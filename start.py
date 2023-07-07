@@ -60,7 +60,7 @@ def check_hash(folder_name, current_hash):
         logger.info('网站未变更，等待下次检测')
 
 # 监控URL
-url = 'http://120.76.55.186/test'
+url = 'test.com'
 
 # 调用日志
 logger = logger.setup_logger()
