@@ -16,10 +16,10 @@ logger = logger.setup_logger()
 
 def send_email(content):
     # 邮件配置信息
-    from_name = "805039413@qq.com"
-    from_addr = "805039413@qq.com"
-    from_pwd = "virskrfdkhkebfgi"
-    to_addr = "805039413@qq.com"
+    from_name = "xxxx@qq.com"
+    from_addr = "xxxx@qq.com"
+    from_pwd = "xxxxi"
+    to_addr = "xxxx@qq.com"
     subject = "网站内容安全监控系统告警"#邮件主题
 
     # 构造邮件内容
